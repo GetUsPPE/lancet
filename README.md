@@ -1,3 +1,4 @@
+### PPE Requests Over Time
 ![alt text](https://github.com/GetUsPPE/lancet/raw/master/images/ppe_requests_over_time.gif "PPE requests over time")
 
 Personal protective equipment (PPE) shortages (eg, masks, gloves, gowns) endanger patients and health-care workers alike during the coronavirus disease 2019 (COVID-19) pandemic. Policymakers and experts have called for donations of existing PPE, increased production by manufacturers, and novel fabrication strategies, such as 3D printing of masks. However, even as PPE sources are identified, a critical information challenge remains: tracking evolving PPE needs and matching them with existing or emerging PPE stockpiles. Although anecdotes of PPE shortages dominate the media, and epicentres of the pandemic, like New York City, NY, USA, have articulated clear needs, the national distribution of PPE shortages has not been examined. Here we provide a quantitative, time-series view of the PPE needs across the United States.
